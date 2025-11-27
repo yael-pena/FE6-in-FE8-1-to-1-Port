@@ -5,7 +5,12 @@
 
 ![1f8b2fe20a8e35fdcaa682b8bdec927e123495db](https://github.com/user-attachments/assets/6aa50e6d-edb2-4942-ba23-ee4aecc4340e) ![d73a67f726b0018ce58d827c58f205a9d78f5dba](https://github.com/user-attachments/assets/ece8a973-c73b-4810-b456-e586fbe86506)
 
+---------------------------------------------------------------------------------------------
+### Fire Emblem: The Binding Blade — 1:1 FE8 Engine Port (Demo Showcase)
 
+[![Video Demo](https://github.com/user-attachments/assets/8042de68-9be6-4c34-929d-6fd12c9a4f27)](https://youtu.be/ALplmdOk3sk)
+
+---------------------------------------------------------------------------------------------
 A faithful, technical, ground-up recreation of Fire Emblem: The Binding Blade inside the Fire Emblem 8 (Sacred Stones) engine — rebuilt event by event, map by map, mechanic by mechanic.
 
 This project preserves the original FE6 experience, while taking advantage of FE8’s more modern engine, tools, and hacking ecosystem. It also serves as a fully-featured base for ROM hackers who want to build FE6 projects using FE8’s improved functionality.
