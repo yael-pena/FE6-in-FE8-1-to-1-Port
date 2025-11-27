@@ -1,13 +1,24 @@
 # Fire Emblem: The Binding Blade - 1:1 Port to the FE8 Engine [Complete]
 **Vanilla FE6 ported to the FE8 engine.**
 
-<img width="240" height="160" alt="image" src="https://github.com/user-attachments/assets/d096e44f-2ea4-4ab6-af96-2ffd5554969c" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/d096e44f-2ea4-4ab6-af96-2ffd5554969c" />
+
+![1f8b2fe20a8e35fdcaa682b8bdec927e123495db](https://github.com/user-attachments/assets/6aa50e6d-edb2-4942-ba23-ee4aecc4340e) ![d73a67f726b0018ce58d827c58f205a9d78f5dba](https://github.com/user-attachments/assets/ece8a973-c73b-4810-b456-e586fbe86506)
+
 
 A faithful, technical, ground-up recreation of Fire Emblem: The Binding Blade inside the Fire Emblem 8 (Sacred Stones) engine — rebuilt event by event, map by map, mechanic by mechanic.
 
 This project preserves the original FE6 experience, while taking advantage of FE8’s more modern engine, tools, and hacking ecosystem. It also serves as a fully-featured base for ROM hackers who want to build FE6 projects using FE8’s improved functionality.
 
 Original FEUniverse Page: https://feuniverse.us/t/fire-emblem-the-binding-blade-1-1-port-to-the-fe8-engine-complete/27628
+
+## Table of Contents
+- [Download](#download)
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Project Goals & Philosophy](#project-goals--philosophy)
+- [Flags](#flags)
+- [Credits](#credits)
 
 ## Download
 Latest Version: v1.9 (3/11/2025)
@@ -87,12 +98,24 @@ This project was also built for other ROM hackers — with a focus on stability,
 
 ### Optional Prologue
 - A brand-new prologue inspired by FE6's original tutorial map
+
+![bb234e4037be85a00e31fd9c0d1c2ff1f3c5101d](https://github.com/user-attachments/assets/265bddfb-af55-4532-a314-e49a6e0a1805)
+
 ### Casual Mode & Fixed Growths
 - Modern QoL options built directly into the engine.
+
+![8fd305c5ac6341564f410b425060466e2f354f91](https://github.com/user-attachments/assets/28920a91-5378-4bc5-ad0b-22337e22e8d2)
+
 ### World Map Shops & Armories
 - Visit shops that match FE6’s original chapter inventory.
+
+![9e905d7d13252805cde16a99b3ea640119fbcd63](https://github.com/user-attachments/assets/16b0e5ce-76ff-4d56-8833-a27dd586ec5e)
+
 ### Modern Route-Split Choice
 - Choose Ilia or Sacae via menu after 16/16x, instead of EXP tracking.
+
+![5a56334bbecd159777e055ea283b7c6c3f595489](https://github.com/user-attachments/assets/2b6cc936-483f-4d2e-bf56-52610be162a9)
+
 ### Updated Translation
 Based on the latest community translation + localization fixes:
 - Jutes → Juteaux
@@ -112,6 +135,7 @@ Based on the latest community translation + localization fixes:
 4. Play on emulator or real hardware.
 
 ## Project Goals & Philosophy
+
 This project was built with three goals:
 
 ### 1. Accuracy
@@ -130,41 +154,25 @@ Give ROM hackers a clean base to build on, complete with modern FE8 features.
 - Some high-budget FE6 animations replaced with FE8 equivalents (Aureola → Ivaldi, etc.)
 
 ## Flags
-78 → Prologue completed 
 
-79 → Lilina dead
-
-7A → Route B taken
-
-7B → Sacae chosen
-
-7C → Sue dead
-
-7D → Sin dead
-
-7E → Dayan dead
-
-83 → Galle dead
-
-86 → Fae dead
-
-8B–8D → Cath talk counters
-
-8E → Cath dead
-
-8F → Elffin dead
-
-90 → Perceval recruited/dead
-
-95 → Idunn hit by Binding Blade
-
-99 → Good ending achieved
-
-A0–A3 → Zealot/Juno/Melady/Zeiss dead
-
-AC → Perceval crest check
-
-B2 → Douglas dead
+- 78 → Prologue completed 
+- 79 → Lilina dead
+- 7A → Route B taken
+- 7B → Sacae chosen
+- 7C → Sue dead
+- 7D → Sin dead
+- 7E → Dayan dead
+- 83 → Galle dead
+- 86 → Fae dead
+- 8B–8D → Cath talk counters
+- 8E → Cath dead
+- 8F → Elffin dead
+- 90 → Perceval recruited/dead
+- 95 → Idunn hit by Binding Blade
+- 99 → Good ending achieved
+- A0–A3 → Zealot/Juno/Melady/Zeiss dead
+- AC → Perceval crest check
+- B2 → Douglas dead
 
 ## Credits
 - FE6 [T2] Roy Master Lord — UltraFenix
